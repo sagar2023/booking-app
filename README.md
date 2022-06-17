@@ -54,7 +54,20 @@ ALL REST API structure is JSON(KEY-VALUE Pair)
 
 ![rest api](https://user-images.githubusercontent.com/70846234/174351759-c31571a6-cb5e-4861-b2cf-d87f47ab8fcd.png)
 
-2.
+2. database(mongodb)
+- created one database (booking database)
+- Inside booking databse created different collections
+1. users
+2. hotels
+3. rooms
+- inside collections add different document eg . in hotels collections - added different hotel information
+
+- structure of mongodb
+- database->collections->document
+- eg. booking->users->sagar
+
+
+![booking data base](https://user-images.githubusercontent.com/70846234/174353603-649ac964-c667-42c4-b849-3c91b96e0052.png)
 
 
 
