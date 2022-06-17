@@ -69,9 +69,9 @@ ALL REST API structure is JSON(KEY-VALUE Pair)
 >In this screen shot included 3 collection hotel,users,rooms with in collections added different document 
 ![booking data base](https://user-images.githubusercontent.com/70846234/174353603-649ac964-c667-42c4-b849-3c91b96e0052.png)
 
-also given only one user as permission of Admin 
+>Also given only one user as permission of Admin 
 
-
+![Screenshot 2022-06-17 234724](https://user-images.githubusercontent.com/70846234/174355386-5117ae34-af6c-4ce3-94c5-b2553c2502d8.png)
 
 ## Admin Site Screen shots
 
