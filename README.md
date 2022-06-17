@@ -47,9 +47,13 @@ With in main technologies using  different sub technologies :
 - delete (del method)
 - get (GET method)
 - get all (GET method)
-
 ALL REST API structure is JSON(KEY-VALUE Pair)
 
+All mehod cover in one screen shot
+
 ![rest api](https://user-images.githubusercontent.com/70846234/174351759-c31571a6-cb5e-4861-b2cf-d87f47ab8fcd.png)
+
+2.
+
 
 
