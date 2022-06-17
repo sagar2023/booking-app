@@ -76,3 +76,16 @@ ALL REST API structure is JSON(KEY-VALUE Pair)
 ## Admin Site Screen shots
 
 
+![Screenshot (30)](https://user-images.githubusercontent.com/70846234/174356336-811cde89-edaf-4fcf-9e26-53da7364b0f3.png)
+
+![Screenshot (31)](https://user-images.githubusercontent.com/70846234/174356347-e14b879a-4e68-423a-a898-5e8d7a8a9bb4.png)
+
+![Screenshot (32)](https://user-images.githubusercontent.com/70846234/174356353-d921979c-3e76-4c95-9b03-636e73e3b9c4.png)
+
+![Screenshot (33)](https://user-images.githubusercontent.com/70846234/174356360-a23e2ed0-1f7f-4def-9ee1-71c9c9ed0148.png)
+
+![Screenshot (34)](https://user-images.githubusercontent.com/70846234/174356364-f1ab35e2-0ad4-4838-ae0e-a9a6669ac920.png)
+
+![Screenshot (36)](https://user-images.githubusercontent.com/70846234/174356375-2754a960-8917-4d1a-be50-ec6470bb2882.png)
+
+
