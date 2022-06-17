@@ -1,8 +1,11 @@
 # booking-app
 MERN stack hotel reservation app project. 
+
 using following technologies :
-React Node.js MongoDB 
-in main technologies using  different sub technologies :  Context API, JWT, custom hooks, and React calendar.
+
+React, Node.js, MongoDB 
+
+With in main technologies using  different sub technologies :  Context API, JWT, custom hooks, and React calendar.
 
 
 
